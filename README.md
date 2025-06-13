@@ -1,2 +1,8 @@
-# PW_A07_Python_Restful_API_-_Flask
-PW_A07_Python_Restful_API_&amp;_Flask
+# PW_A07_Python_Restful_API_and_Flask
+PW_A07_Python_Restful_API_&_Flask
+
+This is the Sixth assignment of our Data Analytics Course in PW skills.
+
+It consists of theory questions as well as practical questions, and I have completed all the answers.
+
+All questions are Python Programming related to Restful API & Flask
